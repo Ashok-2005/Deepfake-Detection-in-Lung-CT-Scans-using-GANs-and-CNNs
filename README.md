@@ -192,9 +192,9 @@ The models were evaluated using:
 
 ## 👨‍💻 Authors
 
-**Uppalapati Venkata Ashok Adithya**
+- **Venkata Ashok Adithya**
 
-**Mannem Yuvaraju**
+- **Yuvaraju**
 
 School of Computer Science and Engineering
 
