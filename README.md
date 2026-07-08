@@ -196,14 +196,6 @@ The models were evaluated using:
 
 **Mannem Yuvaraju**
 
-Department of Artificial Intelligence and Machine Learning
+School of Computer Science and Engineering
 
 VIT-AP University
-
----
-
-## 📖 Reference
-
-This repository is based on the project:
-
-**Detection of Deepfakes in Lung CT Scans Using GAN-Generated Images with Custom and Pretrained CNN Models**
